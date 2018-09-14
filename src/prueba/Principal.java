@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		int a = 8;
 		System.out.println("hola");
+		int b=9;
 	}
 
 }
